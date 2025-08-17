@@ -22,7 +22,7 @@ Visualiza la relación entre 'Churn' y otras variables categóricas utilizando g
 Abre el notebook en Google Colab.
 Ejecuta cada celda de código secuencialmente.
 Examina las salidas de cada celda para comprender los pasos del análisis y los resultados.
-Dependencias
+### Dependencias
 El notebook utiliza las siguientes bibliotecas de Python, que están preinstaladas en el entorno de Google Colab:
 
 * pandas
